@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileNator", "TileNator\TileNator.csproj", "{520784C8-7091-4F65-A2B7-E85E46A20171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppOpener", "AppOpener\AppOpener.csproj", "{4EB40F54-0F56-426B-B35F-E595450A9AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520784C8-7091-4F65-A2B7-E85E46A20171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520784C8-7091-4F65-A2B7-E85E46A20171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520784C8-7091-4F65-A2B7-E85E46A20171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520784C8-7091-4F65-A2B7-E85E46A20171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB40F54-0F56-426B-B35F-E595450A9AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB40F54-0F56-426B-B35F-E595450A9AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB40F54-0F56-426B-B35F-E595450A9AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB40F54-0F56-426B-B35F-E595450A9AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D171458C-8D6B-4CBB-A0CF-86F3DA06F06E}
+	EndGlobalSection
+EndGlobal
